@@ -1,11 +1,12 @@
 # awsIoT
 
 Setting up AWS IoT 1-click button:
-1. How to configure an AWS IoT Button: 
+Part 1. How to configure an AWS IoT Button: 
 https://www.youtube.com/watch?v=oIPsQhStbnY
-2. Using an AWS IoT button to get your kids to show up for dinner
+Part 2. Using an AWS IoT button to get your kids to show up for dinner
 https://www.youtube.com/watch?v=6sLd1MK2CbY
-3. How to make a Panic Button with AWS IoT Button
+
+Extra: How to make a Panic Button with AWS IoT Button
 https://www.youtube.com/watch?v=rMUOl-JWcVQ&t=756s
 
 Additional AWS documentation:
